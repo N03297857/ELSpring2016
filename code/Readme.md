@@ -1,2 +1,2 @@
-Code Directory. All your code should go here. Make sure files are named as explicitly as possible.
-
+#Coding Directory.
+This is where my coding will be stored in and saved at.
